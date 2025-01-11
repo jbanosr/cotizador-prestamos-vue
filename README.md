@@ -1,4 +1,4 @@
-Vue + Vite
-Learning Vue: a simple project created using React and Vite.
+# Vue + Vite
+Learning Vue: a simple project created using Vue and Vite.
 
-You can view this project online at: [https://cotizador-precios-react.netlify.app/](https://cotizador-de-prestamos-vuejs.netlify.app/)
+You can view this project online at: https://cotizador-de-prestamos-vuejs.netlify.app/
